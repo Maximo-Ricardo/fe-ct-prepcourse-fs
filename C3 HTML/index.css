@@ -1,0 +1,68 @@
+body{
+    Width: 1600px;
+    Height: 719px;
+}
+
+header{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-between;
+    width: 1600px;
+}
+
+#LogoTrafalgar{
+    width: 160px
+    height 41px;
+    margin-top: 56px;
+    margin-left: 191px;
+}
+
+nav{
+    background-color: rgb(255, 255, 255);
+}
+
+ul{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    Width: 545px;
+    Height: 23px;
+    margin-top: 70px;
+    margin-left: 863px;
+    list-style-type: none;
+    justify-content: space-around;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color:#1F1534;
+    font-family: "Mulish", sans-serif;
+    font-weight: "400";
+    font-style: normal;
+}
+
+nav ul li a:hover{
+    font-weight: "700";
+    color: blue;
+    font-size: 20px;
+}
+
+main{
+    display: flex;
+    justify-content: space-between;
+}
+
+.consult{
+    margin-top: 56px;
+    margin-left: 191px;
+    Width: 445px;
+    Height: 338px;
+}
+
+.picture{
+    margin-top: 70px;
+    margin-left: 863px;
+    Width: 693px;
+    Height: 598px;
+    margin-top: 177px;
+    margin-left: 744px;
+}
